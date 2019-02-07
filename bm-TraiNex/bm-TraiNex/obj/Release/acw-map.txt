@@ -1,0 +1,4 @@
+bm_TraiNex.MainActivity, bm-TraiNex;md59cefbd009395338d5382d65d17238970.MainActivity
+bm_TraiNex.MainActivity, bm-TraiNex, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md59cefbd009395338d5382d65d17238970.MainActivity
+bm_TraiNex.MainActivity;md59cefbd009395338d5382d65d17238970.MainActivity
+bm_trainex.MainActivity;md59cefbd009395338d5382d65d17238970.MainActivity
